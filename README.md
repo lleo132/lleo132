@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-campos-654228236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/castrolleo_/)
 
-![lleo132 GitHub stats](https://github-readme-stats.vercel.app/api?username=lleo132&show_icons=true&theme=highcontrast)
+![lleo132 GitHub stats](https://github-readme-stats.vercel.app/api?username=lleo132&show_icons=true&theme=dracula)
 
 ### Tecnologias que pratico no meu dia a dia
 
