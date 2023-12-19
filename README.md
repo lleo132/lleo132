@@ -18,7 +18,7 @@ My name is Leonardo, future Dev FullStack 😎
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
  
- ## Independente do que tenha que fazer, faça bem feito, principalemte em JAVA!
+ ## Independente do que tenha que fazer, faça bem feito!
  
  - Email: leonardocampos132@protonmail.com
 
