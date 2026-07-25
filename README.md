@@ -8,6 +8,8 @@ My name is Leonardo, Dev FullStack 😎
 ### Tecnologias que pratico no meu dia a dia
 
 <div>
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&logo=python&logoColor=ffdd54&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square&logo=python&logoColor=ffdd54&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
